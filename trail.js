@@ -1,6 +1,6 @@
-let a=5;
+let A=5;
 
-if( a%2==0){
+if( A%2==0){
 console.log("even");
 }
 else{
